@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: e53f706e55f81604d98e83b31cbc2c63
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a4540ec5525f4e898efabea3ddec9
+      internalID: 1916839039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f15410917d4d4c934ea4f4f8ea47e
+      internalID: -1951904740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636740dc2f146804ba13980da9f3590d
+      internalID: -445209839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b1d0716673a744b19b1bf8030b380
+      internalID: -2060150303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7da442d42717b44bc26edb6dde58b6
+      internalID: 483832867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a57245d4fe2949beb35567ac8dca1
+      internalID: -54188308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60faaa94adc24e48bc53b6d290d7764
+      internalID: 213217560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc205e3a1279c4982764294e977883
+      internalID: 1533284947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8957e698df3cc8448a81e0931a49f24
+      internalID: -2051367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc7ff1647d8b0142b91c72c43fa2bb8
+      internalID: 1116809698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6bb95deccfbf4e8882017b411dc38
+      internalID: 1302517302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd87c22d0bd6d64ab6c49a01503dac7
+      internalID: 1342908350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa5f9939f97fc24993d144b4c48382d
+      internalID: 484123019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc7d1c99383ed40a293cb1d3029847
+      internalID: 1485518117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfe54e286174140bea93fe531e71d9
+      internalID: -1969852549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4f7364dda673245b220152996f4028
+      internalID: 1799997502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7767e92056599140951ed4c12d03e4f
+      internalID: 746678016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c0f71d3c221d640b560bca7e4827be
+      internalID: -1207934284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc26590fb01e2348afaa438e4dd374f
+      internalID: -1886806285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686e97ea091394439bb78c753e9588d
+      internalID: 271187954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225369441b118345a184f2b3758263e
+      internalID: 347253720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064fd1346ba10d140aaa0b23484b7716
+      internalID: -152965534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aadba8abfdbd44ca058ec62e13371e
+      internalID: -47162391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5fc190ea4f0c46aaf3f1503121736
+      internalID: -1016552236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6633c2d1bfb2a8478b4bbc102af131c
+      internalID: -724392496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814107eb6eaf5324ab918819ac85244b
+      internalID: -705266682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204735cb238555b4485ed690476c7678
+      internalID: -951870616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e7f60838e11524faa6f3c96c6cae84
+      internalID: -1401607456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8995ec4c9703c4a8a95c56966d0241
+      internalID: 1541767574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80845d6b7e313f42b4ab8b9106f677c
+      internalID: 118508767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4191b94e2482439670d6af7de9282
+      internalID: 2125837905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a102884881d25d40b296d285b6897e5
+      internalID: -1377523294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c677f3c695e4d9e429590906fa3b548a
+      internalID: 1978071928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2b5469b70c274997a2ed1c008737f
+      internalID: -1948365118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326968aedfd6b6649b198e83ef1af267
+      internalID: 97263409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf1e1ae1657e148926c3f82dfd6cd6
+      internalID: 1507261547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_AnimatedSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7675ec832eb42409043d7d4b68f0c0
+      internalID: -1443307276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CosmicLilac_AnimatedSpriteSheet_0: 480336373
+      CosmicLilac_AnimatedSpriteSheet_1: 912194664
+      CosmicLilac_AnimatedSpriteSheet_10: -72863
+      CosmicLilac_AnimatedSpriteSheet_100: 65088381
+      CosmicLilac_AnimatedSpriteSheet_101: -1821724168
+      CosmicLilac_AnimatedSpriteSheet_102: 1029559596
+      CosmicLilac_AnimatedSpriteSheet_103: -1008305317
+      CosmicLilac_AnimatedSpriteSheet_104: -981723871
+      CosmicLilac_AnimatedSpriteSheet_105: 1500914025
+      CosmicLilac_AnimatedSpriteSheet_106: -1705987650
+      CosmicLilac_AnimatedSpriteSheet_107: -168276471
+      CosmicLilac_AnimatedSpriteSheet_108: 1408386561
+      CosmicLilac_AnimatedSpriteSheet_109: 286235367
+      CosmicLilac_AnimatedSpriteSheet_11: 1078134244
+      CosmicLilac_AnimatedSpriteSheet_12: -1886044948
+      CosmicLilac_AnimatedSpriteSheet_13: 1360758424
+      CosmicLilac_AnimatedSpriteSheet_14: 1615303701
+      CosmicLilac_AnimatedSpriteSheet_15: -1007232971
+      CosmicLilac_AnimatedSpriteSheet_16: 1905747283
+      CosmicLilac_AnimatedSpriteSheet_17: 438202045
+      CosmicLilac_AnimatedSpriteSheet_18: 1916839039
+      CosmicLilac_AnimatedSpriteSheet_19: -1951904740
+      CosmicLilac_AnimatedSpriteSheet_2: 260795976
+      CosmicLilac_AnimatedSpriteSheet_20: -445209839
+      CosmicLilac_AnimatedSpriteSheet_21: -2060150303
+      CosmicLilac_AnimatedSpriteSheet_22: 483832867
+      CosmicLilac_AnimatedSpriteSheet_23: -54188308
+      CosmicLilac_AnimatedSpriteSheet_24: 213217560
+      CosmicLilac_AnimatedSpriteSheet_25: 1533284947
+      CosmicLilac_AnimatedSpriteSheet_26: -34762260
+      CosmicLilac_AnimatedSpriteSheet_27: -2083966231
+      CosmicLilac_AnimatedSpriteSheet_28: 1363359897
+      CosmicLilac_AnimatedSpriteSheet_29: 1522795180
+      CosmicLilac_AnimatedSpriteSheet_3: -527760433
+      CosmicLilac_AnimatedSpriteSheet_30: -870997383
+      CosmicLilac_AnimatedSpriteSheet_31: 414602959
+      CosmicLilac_AnimatedSpriteSheet_32: -1579251670
+      CosmicLilac_AnimatedSpriteSheet_33: 125662921
+      CosmicLilac_AnimatedSpriteSheet_34: -2051367156
+      CosmicLilac_AnimatedSpriteSheet_35: 1116809698
+      CosmicLilac_AnimatedSpriteSheet_36: 1302517302
+      CosmicLilac_AnimatedSpriteSheet_37: 1342908350
+      CosmicLilac_AnimatedSpriteSheet_38: 484123019
+      CosmicLilac_AnimatedSpriteSheet_39: 1485518117
+      CosmicLilac_AnimatedSpriteSheet_4: 1628981182
+      CosmicLilac_AnimatedSpriteSheet_40: -1969852549
+      CosmicLilac_AnimatedSpriteSheet_41: -461879453
+      CosmicLilac_AnimatedSpriteSheet_42: -1310076445
+      CosmicLilac_AnimatedSpriteSheet_43: -1957351247
+      CosmicLilac_AnimatedSpriteSheet_44: 839299082
+      CosmicLilac_AnimatedSpriteSheet_45: -1895218596
+      CosmicLilac_AnimatedSpriteSheet_46: 1962715932
+      CosmicLilac_AnimatedSpriteSheet_47: -758650700
+      CosmicLilac_AnimatedSpriteSheet_48: 1799997502
+      CosmicLilac_AnimatedSpriteSheet_49: 746678016
+      CosmicLilac_AnimatedSpriteSheet_5: -862107967
+      CosmicLilac_AnimatedSpriteSheet_50: -1207934284
+      CosmicLilac_AnimatedSpriteSheet_51: -1886806285
+      CosmicLilac_AnimatedSpriteSheet_52: 271187954
+      CosmicLilac_AnimatedSpriteSheet_53: 347253720
+      CosmicLilac_AnimatedSpriteSheet_54: 17360648
+      CosmicLilac_AnimatedSpriteSheet_55: 1539694428
+      CosmicLilac_AnimatedSpriteSheet_56: -152965534
+      CosmicLilac_AnimatedSpriteSheet_57: -47162391
+      CosmicLilac_AnimatedSpriteSheet_58: -1016552236
+      CosmicLilac_AnimatedSpriteSheet_59: -724392496
+      CosmicLilac_AnimatedSpriteSheet_6: -1115559293
+      CosmicLilac_AnimatedSpriteSheet_60: -705266682
+      CosmicLilac_AnimatedSpriteSheet_61: -951870616
+      CosmicLilac_AnimatedSpriteSheet_62: 172545145
+      CosmicLilac_AnimatedSpriteSheet_63: 414845244
+      CosmicLilac_AnimatedSpriteSheet_64: 1433167997
+      CosmicLilac_AnimatedSpriteSheet_65: -1357189661
+      CosmicLilac_AnimatedSpriteSheet_66: 262568561
+      CosmicLilac_AnimatedSpriteSheet_67: -923275262
+      CosmicLilac_AnimatedSpriteSheet_68: 1505759986
+      CosmicLilac_AnimatedSpriteSheet_69: 2044769475
+      CosmicLilac_AnimatedSpriteSheet_7: -1120426067
+      CosmicLilac_AnimatedSpriteSheet_70: 1092077180
+      CosmicLilac_AnimatedSpriteSheet_71: -1401607456
+      CosmicLilac_AnimatedSpriteSheet_72: 1541767574
+      CosmicLilac_AnimatedSpriteSheet_73: 118508767
+      CosmicLilac_AnimatedSpriteSheet_74: 2125837905
+      CosmicLilac_AnimatedSpriteSheet_75: -1377523294
+      CosmicLilac_AnimatedSpriteSheet_76: 1978071928
+      CosmicLilac_AnimatedSpriteSheet_77: -1312783714
+      CosmicLilac_AnimatedSpriteSheet_78: 189157108
+      CosmicLilac_AnimatedSpriteSheet_79: -1948365118
+      CosmicLilac_AnimatedSpriteSheet_8: -208536496
+      CosmicLilac_AnimatedSpriteSheet_80: 97263409
+      CosmicLilac_AnimatedSpriteSheet_81: 1507261547
+      CosmicLilac_AnimatedSpriteSheet_82: -1443307276
+      CosmicLilac_AnimatedSpriteSheet_83: -1413372324
+      CosmicLilac_AnimatedSpriteSheet_84: 969901718
+      CosmicLilac_AnimatedSpriteSheet_85: 383951748
+      CosmicLilac_AnimatedSpriteSheet_86: -1649752360
+      CosmicLilac_AnimatedSpriteSheet_87: 2017264746
+      CosmicLilac_AnimatedSpriteSheet_88: 72084450
+      CosmicLilac_AnimatedSpriteSheet_89: 37862602
+      CosmicLilac_AnimatedSpriteSheet_9: -1766775927
+      CosmicLilac_AnimatedSpriteSheet_90: 1839286735
+      CosmicLilac_AnimatedSpriteSheet_91: 10600729
+      CosmicLilac_AnimatedSpriteSheet_92: -1497642538
+      CosmicLilac_AnimatedSpriteSheet_93: -908607687
+      CosmicLilac_AnimatedSpriteSheet_94: -837813030
+      CosmicLilac_AnimatedSpriteSheet_95: 1768131023
+      CosmicLilac_AnimatedSpriteSheet_96: -222599497
+      CosmicLilac_AnimatedSpriteSheet_97: 521820352
+      CosmicLilac_AnimatedSpriteSheet_98: 540560363
+      CosmicLilac_AnimatedSpriteSheet_99: 1810817225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
