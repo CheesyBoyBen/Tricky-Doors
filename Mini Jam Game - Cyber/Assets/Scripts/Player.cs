@@ -80,7 +80,7 @@ public class Player : MonoBehaviour
         }
         else if (playerNo == 2)
         {
-            if (Input.GetKeyDown(KeyCode.KeypadEnter))
+            if (Input.GetKeyDown(KeyCode.KeypadEnter) || Input.GetKeyDown(KeyCode.Space))
             {
                 buttonInteraction();
             }
